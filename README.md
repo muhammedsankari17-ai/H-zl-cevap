@@ -1,5 +1,4 @@
 # H-zl-cevap
-Hızlı cevap.web
 <!DOCTYPE html>
 <html lang="tr">
 <head>
